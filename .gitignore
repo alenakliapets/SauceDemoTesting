@@ -1,0 +1,8 @@
+/shelf/
+/workspace.xml
+.DS_Store
+/.idea
+*.class
+out/
+/target/
+/allure-results/
