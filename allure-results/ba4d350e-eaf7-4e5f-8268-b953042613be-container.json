@@ -1,1 +1,0 @@
-{"uuid":"ba4d350e-eaf7-4e5f-8268-b953042613be","name":"SauceDemo_Full","children":["03cda70e-3d56-48e6-8ecc-258495ea3ea6"],"befores":[{"name":"startBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648387767519,"stop":1648387783917}],"afters":[],"start":1648387767515,"stop":1648387789843}
