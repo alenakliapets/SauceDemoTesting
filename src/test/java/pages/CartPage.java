@@ -38,6 +38,7 @@ public class CartPage extends BasePage {
             return false;
         }
     }
+
     public UIElement getButtonMenu(){return new UIElement(browserService, menuButtonById);}
     public UIElement getCart(){return new UIElement(browserService, cartButtonByClass);}
     public UIElement getContinueShopping(){return new UIElement(browserService, continueShoppingButtonById);}
