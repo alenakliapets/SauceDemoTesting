@@ -4,5 +4,5 @@
 /.idea
 *.class
 out/
-/target/
-/allure-results/
+/target
+/allure-results
