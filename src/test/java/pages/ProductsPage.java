@@ -63,6 +63,7 @@ public class ProductsPage extends BasePage {
         getAddToCartButtonForProduct(productName).click();
         return this;
     }
+
     public ProductsPage addItemsToCart(ArrayList<String> itemsList){
         for (String item:itemsList) {
             addItemToCart(item);
