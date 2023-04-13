@@ -27,6 +27,7 @@ public class SmokeTest extends BaseTest {
         Assert.assertEquals(checkOutCompletionPage.getCompletionMessage().trim(),
                 "THANK YOU FOR YOUR ORDER");
     }
+
     //Test
     @Test
     public void criticalPathStepsTest(){
