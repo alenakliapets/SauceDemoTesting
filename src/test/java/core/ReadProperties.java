@@ -25,6 +25,12 @@ public final class ReadProperties {
 
     public String getURL(){return properties.getProperty("url");}
 
+    public String getTestrailURL(){return properties.getProperty("testrail_url");}
+
+    public String getApiUsername(){return properties.getProperty("api_username");}
+
+    public String getApiPassword(){return properties.getProperty("api_password");}
+
     public String getBrowserName(){return properties.getProperty("browser");}
 
     public boolean isHeadless(){return properties.getProperty("headless").equalsIgnoreCase("true");}
